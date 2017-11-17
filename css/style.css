@@ -16,6 +16,7 @@ h1, figure, img, article, section,th,td,table{
 }
 /*Fim do Reset*/
 
+<<<<<<< HEAD
 /*CSS Rodrigão*/
 .componentes{
     background: rgb(57, 59, 71);
@@ -65,3 +66,16 @@ h1, figure, img, article, section,th,td,table{
     text-align: center;
 }
 /*fim css Rodrigao*/
+=======
+/*Inicio do Tablet*/
+@media(min-width: 768px){
+
+}
+/*Fim do Tablet*/
+
+/*Inicio do Desktop*/
+@media(min-width: 992px){
+    
+}
+/*Fim do Desktop*/
+>>>>>>> d65752e636fd81a5788b8c4eb48b54899c284c96
