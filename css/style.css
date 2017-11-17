@@ -17,6 +17,75 @@ h1, figure, img, article, section,th,td,table{
 /*Fim do Reset*/
 
 
+body{
+    text-align: center;
+}
+
+
+/* Header*/
+
+.cabecalho-style{
+    background-color:  rgba(181, 73, 61, 1);
+    z-index: 2;
+    position: relative;
+    opacity: 0.90;
+    padding: 1%;      
+}
+    
+.cabecalho{
+    background-image: url("img/header.png");
+    z-index: 1;
+    color: white;
+    padding: 0;
+}
+
+.logotipo{
+    width: 180px;
+    border-color: white;
+    border-style: solid;
+}
+
+.intro{
+    text-transform: uppercase;
+    color: #e0e0e0;
+    size: 2em;
+}
+.titulo-cabecalho{
+    font-size: 6em;
+}
+
+.mensagem-cabecalho{
+    display: none;
+}
+
+.redes-sociais{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    margin: 5% 30%;
+}
+
+.links_lojas{
+    width: 350px;
+}
+
+/* Fim do Header*/
+
+/* inicio componentes*/
+
+.artigos{
+    padding: 1%;
+}
+
+.artigos h3{
+    color: gray;
+}
+/* fim componentes*/
+
+
+
+
+
 /*CSS Rodrigão*/
 .componentes{
     background: rgb(57, 59, 71);
