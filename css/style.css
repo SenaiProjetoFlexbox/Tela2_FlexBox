@@ -15,3 +15,15 @@ h1, figure, img, article, section,th,td,table{
     margin: 0;
 }
 /*Fim do Reset*/
+
+/*Inicio do Tablet*/
+@media(min-width: 768px){
+
+}
+/*Fim do Tablet*/
+
+/*Inicio do Desktop*/
+@media(min-width: 992px){
+    
+}
+/*Fim do Desktop*/
