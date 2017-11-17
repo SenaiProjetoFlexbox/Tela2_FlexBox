@@ -50,6 +50,7 @@ h1, figure, img, article, section,th,td,table{
 .formulario{
     background: rgb(197,75,60);
     color: white;    
+    padding: 5%;
 }    
 .formulario_title{
     text-align: center;
@@ -59,9 +60,9 @@ h1, figure, img, article, section,th,td,table{
     display:block;
     border:none;
     border-bottom:1px solid #ccc;
-    width:90%;
+    width:90%;     
 }
 .direitos-autorais{
-    text-align: center;
+    text-align: center; 
 }
 /*fim css Rodrigao*/
